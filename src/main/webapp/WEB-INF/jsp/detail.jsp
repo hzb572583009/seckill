@@ -12,7 +12,7 @@
         <div class="pannel-heading">
             <h1>${seckill.name}</h1>
         </div>
-111111
+11111222221
         <div class="panel-body">
             <h2 class="text-danger">
                 <%--显示time图标--%>
